@@ -33,16 +33,16 @@ Startup.main();
 
 * Typescript aims to enhance codequality and understandability of javascript-code
 * typescript is a superset of javascript
-    ** valid javascript-code is also valid typescript-code
+  * valid javascript-code is also valid typescript-code
 * typescript transpiles to javascript
-    ** means: the typescript-compile (`tsc`) emits javascript
+  * means: the typescript-compile (`tsc`) emits javascript
 * typescript provides an optional type-system for javascript
-    ** it adds common concepts to javascript, such as:
-    ** classes
-    ** modules
-    ** interfaces
-    ** generics
-    ** static typing
+  * it adds common concepts to javascript, such as:
+  * classes
+  * modules
+  * interfaces
+  * generics
+  * static typing
 * typescript provides planned features from future javascript-versions to the actual coding-experience
 
 ### language-features
@@ -50,9 +50,9 @@ Startup.main();
 #### types
 
 * basic types
-    ** boolean
-    ** number
-    ** string
+  * boolean
+  * number
+  * string
 * you can ommit type annotations
 
 * there is a dynamic type, called `any`
@@ -95,7 +95,7 @@ Startup.main();
 
 #### async await
 
-neat feature, see the example
+* neat feature, see the example
 
 ```bash
 cd example
